@@ -1,3 +1,46 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "440263922530",
+    "firebase_url": "https://commerces-en-ville-492ff.firebaseio.com",
+    "project_id": "commerces-en-ville-492ff",
+    "storage_bucket": "commerces-en-ville-492ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440263922530:android:8213314e9fccc9bf",
+        "android_client_info": {
+          "package_name": "com.commercesenville.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440263922530-qcl239dbvebpcf4jansd7esnnh63nl0o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "440263922530-qhrbna11u8fahoo0r7f3kf4umgt62i3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZwNdpKbYZ1W4vzV8M0cVV6j5XmtzHtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
